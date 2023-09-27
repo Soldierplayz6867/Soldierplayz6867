@@ -2,6 +2,7 @@
 <div align="center">
   <img src="https://count.getloli.com/get/@:Soldierp?theme=moebooru">
 </div>
+
 ![trophy](https://github-profile-trophy.vercel.app/?username=Soldierplayz6867&theme=onedark)
 
 ![Soldierp's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soldierplayz6867&show_icons=true&theme=transparent)
