@@ -1,5 +1,5 @@
 ### Hi there 👋
-<center>
+<center align="center">
   <img src="https://count.getloli.com/get/@:Soldierp?theme=moebooru">
 </center>
 <!--
