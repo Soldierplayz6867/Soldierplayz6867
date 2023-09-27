@@ -2,6 +2,8 @@
 <div align="center">
   <img src="https://count.getloli.com/get/@:Soldierp?theme=moebooru">
 </div>
+
+![Soldierp's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soldierplayz6867&show_icons=true&theme=transparent)
 <!--
 **Soldierplayz6867/Soldierplayz6867** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
