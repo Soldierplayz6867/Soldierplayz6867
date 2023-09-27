@@ -1,6 +1,6 @@
 ### Hi there 👋
 <center>
-  ![:Soldierp](https://count.getloli.com/get/@:Soldierp?theme=moebooru)
+  <img src="https://count.getloli.com/get/@:Soldierp?theme=moebooru">
 </center>
 <!--
 **Soldierplayz6867/Soldierplayz6867** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
